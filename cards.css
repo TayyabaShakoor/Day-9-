@@ -1,0 +1,91 @@
+body {
+    background-color: white;
+    margin-left: 90px;
+}
+.container {
+    display: flex;
+    text-align: center;
+    margin-top: 90px;
+}
+.cards {
+    width: 310px;
+    height: 480px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-inline:20px;
+    padding: 10px;
+}
+.imgs img {
+    width: 140px;
+    height: 150px;
+    border-radius: 46%;
+    margin-top: 20px;
+    padding-bottom: 0px;
+    color:black;
+}
+.imgs {
+    background-color: white;
+    height: 190px;
+    border-radius: 10px;
+}
+.cards p {
+    color: rgb(8, 8, 7);
+    font-size: 18px;
+    text-align: center;
+}
+.cards button {
+    width: 200px;
+    height: 33px;
+    background-color: black;
+    border-radius: 20px;
+    color: beige;
+    font-size: 15px;
+    padding: 5px;
+    margin:5px;
+}
+.instacolor {
+    width: 310px;
+    height: 480px;
+    background-color: rgb(238, 13,125);
+    text-align: center;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-inline:20px;
+    padding: 10px;
+}
+.imgs-insta img {
+    width: 140px;
+    height: 140px;
+    border-radius: 46%;
+    margin-top: 20px;
+    padding-bottom: 0px;
+    color:rgb(238, 13,125);
+}
+.imgs-insta {
+    background-color:  rgb(238, 13,125);
+    height: 190px;
+    border-radius: 10px;
+}
+.instacolor button {
+    width: 200px;
+    height: 33px;
+    background-color:white;
+    border-radius: 20px;
+    color: rgb(238, 13,125);
+    font-size: 15px;
+    padding: 5px;
+    margin:5px;
+    border-color: pink;
+}
+.instacolor p {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.instacolor h1 {
+    color:white;
+}
